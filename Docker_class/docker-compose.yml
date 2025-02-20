@@ -14,7 +14,7 @@ services:
     networks:
       - eam_apps
     healthcheck:
-        test: ["CMD","mysql", "-u", "root", "-p23202183A6A5FB"]
+        test: ["CMD","mysql", "-u", "root", "-p1092454457J"]
         interval: 30s
         timeout: 10s
         retries: 5

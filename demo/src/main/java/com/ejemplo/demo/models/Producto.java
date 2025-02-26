@@ -1,6 +1,5 @@
 package com.ejemplo.demo.models;
 import jakarta.persistence.*;
-import java.util.List;
 
 @Entity
 @Table(name = "Productos")
